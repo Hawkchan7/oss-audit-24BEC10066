@@ -44,3 +44,7 @@ This project analyzes VLC Media Player as an open-source software. It includes a
 - Script 3: Shows directory size and permissions
 - Script 4: Analyzes log files
 - Script 5: Generates a manifesto file
+- 
+- ## Notes
+- 
+All scripts were tested on Ubuntu (WSL) environment and executed successfully via terminal.
